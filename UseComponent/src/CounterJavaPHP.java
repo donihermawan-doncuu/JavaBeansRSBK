@@ -6,7 +6,7 @@
 
 /**
  *
- * @author rama_
+ * @author doni
  */
 public class CounterJavaPHP extends javax.swing.JApplet {
 

@@ -7,7 +7,7 @@ package colors;
 
 /**
  *
- * @author rama_
+ * @author doni
  */
 public class NewJApplet extends javax.swing.JApplet {
 

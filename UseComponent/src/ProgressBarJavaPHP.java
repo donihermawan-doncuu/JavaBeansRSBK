@@ -6,7 +6,7 @@
 
 /**
  *
- * @author rama_
+ * @author doni
  */
 public class ProgressBarJavaPHP extends javax.swing.JApplet {
     int javaValue = 0;
